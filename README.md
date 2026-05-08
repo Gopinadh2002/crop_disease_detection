@@ -249,7 +249,7 @@ See `backend/requirements.txt` and `frontend/package.json` for full list.
 - **Dataset Name:** PlantVillage Dataset
 - **Total Images:** 20,639
 - **Classes:** 15
-- **Source:** [PlantVillage](https://plantvillage.psu.edu)
+- **Source:** [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
 ## 🙏 Acknowledgments
 
