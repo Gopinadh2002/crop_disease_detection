@@ -77,14 +77,8 @@ cd crop_disease_detection
 The trained model is required to run the project:
 
 **Option A: Google Drive** (Recommended)
-- [Download crop_disease_model_v2.h5](https://drive.google.com/file/d/YOUR_DRIVE_ID/view?usp=sharing)
+- [Download crop_disease_model_v2.h5](https://drive.google.com/file/d/1Minn22asqKgMWf-VGtc-HiJ8gHe-KtC2/view?usp=sharing)
 - Place it in the root folder
-
-**Option B: Hugging Face Hub**
-- Coming soon
-
-**Option C: Build from scratch**
-- See "Training" section below
 
 #### 3. Setup Backend
 
