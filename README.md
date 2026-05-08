@@ -41,21 +41,21 @@ This application helps farmers and agricultural experts identify crop diseases b
 
 ## 🏗️ Project Structure
 
-crop-disease-detection/
-├── backend/                    # FastAPI backend
-│   ├── main.py                 # Main API file
-│   ├── requirements.txt         # Python dependencies
-│   ├── Procfile                 # Deployment config
-│   └── runtime.txt              # Python version
-├── frontend/                   # React frontend
-│   ├── src/
-│   ├── public/
-│   └── package.json
-├── train_model_v2.py          # Model training script
-├── test_model.py              # Model testing script
-├── crop_disease_model_v2.h5   # Trained model
-└── README.md
-
+crop-disease-detection/  
+├── backend/                    # FastAPI backend  
+│   ├── main.py                 # Main API file    
+│   ├── requirements.txt         # Python dependencies  
+│   ├── Procfile                 # Deployment config  
+│   └── runtime.txt              # Python version  
+├── frontend/                   # React frontend  
+│   ├── src/  
+│   ├── public/  
+│   └── package.json  
+├── train_model_v2.py          # Model training script  
+├── test_model.py              # Model testing script    
+├── crop_disease_model_v2.h5   # Trained model  
+└── README.md  
+  
 ## 🚀 Quick Start
 
 ### Prerequisites
